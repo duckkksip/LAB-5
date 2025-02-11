@@ -1,6 +1,6 @@
 # Done by Lau, Chung Shun. SID: 20950990
 # COMP1021 Music System
-
+# I type word here???
 import turtle # Import the turtle module for drawing
 import music  # Import the music module for playing music
 import time   # Import the time module for time.sleep()
